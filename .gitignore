@@ -1,0 +1,6 @@
+outputs/
+final_outputs_first50epochs/
+__pycache__/
+60epochs_metric.csv
+best_metrics_simple_res2unet.csv
+final_metrics_simple_res2unet.csv
